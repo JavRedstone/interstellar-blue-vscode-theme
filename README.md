@@ -1,9 +1,9 @@
 # Interstellar Blue
 
-![Preview](https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/icon.png = 100 x 100)
+<img src="https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/icon.png" alt="Preview" width="100" height="100">
 
 ## Demo
-![Preview](https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/demo.png)
+<img src="https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/demo.png" alt="Preview">
 
 ## Variants
 
