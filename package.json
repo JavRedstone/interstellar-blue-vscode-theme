@@ -1,0 +1,41 @@
+{
+    "name": "interstellar-blue",
+    "displayName": "Interstellar Blue",
+    "description": "A theme with colors based on the movie Interstellar, but blue.",
+    "version": "0.1.0",
+    "publisher": "JavRedstone",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JavRedstone/interstellar-blue-vscode-theme"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Cool",
+        "Contrast",
+        "Blue",
+        "Purple",
+        "Interstellar"
+    ],
+    "galleryBanner": {
+        "color": "#5c00ff",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Interstellar Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/interstellar-blue-color-theme.json"
+            }
+        ]
+    }
+}
