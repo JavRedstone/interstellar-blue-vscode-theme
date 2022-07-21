@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/icon.png" alt="Preview" width="100" height="100">
 
-## Demo
+## Example
 <img src="https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/example.png" alt="Preview">
 
 ## Variants
