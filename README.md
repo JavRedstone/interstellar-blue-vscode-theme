@@ -1,4 +1,4 @@
-# Interstellar Blue v0.1.2
+# Interstellar Blue v0.1.3
 
 <img src="https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/icon.png" alt="Preview" width="100" height="100">
 
