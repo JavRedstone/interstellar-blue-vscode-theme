@@ -20,6 +20,6 @@ A blue theme with colors based on the movie Interstellar.
 4.  Search for `JavRedstone.interstellar-blue`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload Visual Studio Code
-7.  From the menu bar click: Code > Preferences > Color Theme > Pick `Interstellar Blue` to set your color theme
+7.  From the menu bar click: Code > Preferences > Color Theme > Pick `Interstellar Blue II (Recommended)` to set your color theme
 
 You can also install it via the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=JavRedstone.interstellar-blue&ssr=false#overview) or at [Theme Studio for VS Code](https://themes.vscode.one/theme/JavRedstone/BhdXx2a0)
