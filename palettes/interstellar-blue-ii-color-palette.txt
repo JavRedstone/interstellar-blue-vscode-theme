@@ -1,0 +1,17 @@
+base: #6200ff
+accent: #c600ff
+
+background-light: #4c00c4
+background-medium: #330084
+background-dark: #1d004b
+
+foreground-light: #fae7ff
+foreground-medium: #e381ff
+
+background-selection-light: #6200ffa1	
+background-selection-medium: #6200ff80
+background-selection-dark: #6200ff40
+
+foreground-selection-light: #fae7ffa1
+foreground-selection-medium: #fae7ff80
+foreground-selection-dark: #fae7ff40

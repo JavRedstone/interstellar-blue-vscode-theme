@@ -1,8 +1,8 @@
 {
     "name": "interstellar-blue",
     "displayName": "Interstellar Blue",
-    "description": "A theme with colors based on the movie Interstellar, but blue.",
-    "version": "0.2.1",
+    "description": "A blue theme with colors based on the movie Interstellar",
+    "version": "0.3.0",
     "publisher": "JavRedstone",
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
@@ -32,7 +32,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Interstellar Blue",
+                "label": "Interstellar Blue II (Recommended)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/interstellar-blue-ii-color-theme.json"
+            },
+            {
+                "label": "Interstellar Blue (Legacy)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/interstellar-blue-color-theme.json"
             }
