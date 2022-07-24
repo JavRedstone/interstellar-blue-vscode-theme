@@ -1,4 +1,4 @@
-# Interstellar Blue 0.3.0
+# Interstellar Blue `v0.4.0`
 
 A blue theme with colors based on the movie Interstellar.
 

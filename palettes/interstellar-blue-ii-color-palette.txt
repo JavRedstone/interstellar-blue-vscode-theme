@@ -1,6 +1,7 @@
 base: #6200ff
 accent: #c600ff
 
+background-extra-light: #ad7aff
 background-light: #4c00c4
 background-medium: #330084
 background-dark: #1d004b
