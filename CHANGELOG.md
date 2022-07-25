@@ -21,3 +21,7 @@
 
 - Minor fixes on release information
 - Adjustment of colors on themes and logo
+
+## 0.4.1
+
+- Minor fixes on release information
