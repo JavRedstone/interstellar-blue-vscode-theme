@@ -23,6 +23,6 @@ A blue theme with colors based on the movie Interstellar.
 
 You can also install it via the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=JavRedstone.interstellar-blue&ssr=false#overview) or at [Theme Studio for VS Code](https://themes.vscode.one/theme/JavRedstone/BhdXx2a0)
 
-If you liked this theme, you can *star* my [repository](https://github.com/JavRedstone/interstellar-blue-vscode-theme) if you wish. Feel free to also leave a rating at the [Marketplace](https://marketplace.visualstudio.com/items?itemName=JavRedstone.interstellar-blue&ssr=false#review-details)
+If you liked this theme, you can **star** my [Github Repository](https://github.com/JavRedstone/interstellar-blue-vscode-theme) if you wish. Feel free to also leave a rating in the [Marketplace](https://marketplace.visualstudio.com/items?itemName=JavRedstone.interstellar-blue&ssr=false#review-details)
 
-Finally, if you found any bugs, please report them [here](https://github.com/JavRedstone/interstellar-blue-vscode-theme/issues), and I will fix it as fast as I can.
+Finally, if you found any bugs, please report them [here](https://github.com/JavRedstone/interstellar-blue-vscode-theme/issues), and I will fix them as fast as I can.
