@@ -9,6 +9,10 @@
         "type": "git",
         "url": "https://github.com/JavRedstone/interstellar-blue-vscode-theme"
     },
+    "bugs": {
+        "url": "https://github.com/JavRedstone/interstellar-blue-vscode-theme/issues",
+	    "email": "javredstone@gmail.com"
+    },
     "keywords": [
         "Theme",
         "Dark Theme",

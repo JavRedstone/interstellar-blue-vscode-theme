@@ -21,6 +21,8 @@ A blue theme with colors based on the movie Interstellar.
 5.  Click **Install** to install it
 6.  Click **Set Color Theme** and pick your Interstellar Blue theme
 
+**NOTE**: Periodically check the theme inside the **Extensions** menu to see if there is a **Reload Required**, which means the theme has recieved and update. If so, click the button to reload your VS Code window.
+
 You can also install it via the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=JavRedstone.interstellar-blue&ssr=false#overview) or at [Theme Studio for VS Code](https://themes.vscode.one/theme/JavRedstone/BhdXx2a0)
 
 If you liked this theme, you can **star** my [Github Repository](https://github.com/JavRedstone/interstellar-blue-vscode-theme) if you wish. Feel free to also leave a rating in the [Marketplace](https://marketplace.visualstudio.com/items?itemName=JavRedstone.interstellar-blue&ssr=false#review-details)
