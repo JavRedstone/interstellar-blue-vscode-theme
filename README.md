@@ -1,11 +1,11 @@
-# Interstellar Blue `v0.4.1`
+# Interstellar Blue `v0.4.2`
 
 A blue theme with colors based on the movie Interstellar.
 
-<img src="https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/icon.png" alt="Preview" width="100" height="100">
+<img src="https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/icon.png" alt="Logo" width="100" height="100">
 
 ## Interstellar Blue II Example
-<img src="https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/example.png" alt="Preview">
+<img src="https://raw.githubusercontent.com/JavRedstone/interstellar-blue-vscode-theme/main/example.png" alt="Example">
 
 ## Variants
 

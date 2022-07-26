@@ -1,15 +1,11 @@
-## 0.1.0
-
-- Initial release
-
-## 0.1.1 | 0.1.2 | 0.1.3
+## 0.4.1 | 0.4.2
 
 - Minor fixes on release information
 
-## 0.2.0 | 0.2.1
+## 0.4.0
 
 - Minor fixes on release information
-- Adjustment of colors
+- Adjustment of colors on themes and logo
 
 ## 0.3.0
 
@@ -17,11 +13,18 @@
 - Renamed theme names
 - Changed extension description
 
-## 0.4.0
+## 0.2.0 | 0.2.1
 
 - Minor fixes on release information
-- Adjustment of colors on themes and logo
+- Adjustment of colors
 
-## 0.4.1
+## 0.1.1 | 0.1.2 | 0.1.3
 
 - Minor fixes on release information
+
+## 0.1.0
+
+- Initial release
+
+
+
