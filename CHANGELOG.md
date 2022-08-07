@@ -1,3 +1,8 @@
+# 0.5.0 (STABLE)
+
+- Minor fixes on release information
+- Some adjustment on whitish text to be more colorful
+
 ## 0.4.1 | 0.4.2
 
 - Minor fixes on release information

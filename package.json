@@ -2,7 +2,7 @@
     "name": "interstellar-blue",
     "displayName": "Interstellar Blue",
     "description": "A blue theme with colors based on the movie Interstellar",
-    "version": "0.4.2",
+    "version": "0.5.0",
     "publisher": "JavRedstone",
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
@@ -19,6 +19,7 @@
         "Contrast",
         "Blue",
         "Purple",
+        "Dark",
         "Interstellar"
     ],
     "galleryBanner": {
